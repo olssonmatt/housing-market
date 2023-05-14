@@ -1,0 +1,39 @@
+﻿"Income of individuals by age group, sex and income source, Canada, provinces and selected census metropolitan areas 1 2 3 4"
+"Frequency: Annual"
+"Table: 11-10-0239-01 (formerly CANSIM 206-0052)"
+"Release date: 2023-05-02"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada 5",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Age group","16 years and over",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Sex","Both sexes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Income source","Market income",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Statistics","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+,"Number",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Number of persons  (x 1,000)","16,797","17,153","17,487","17,857","18,235","18,573","18,861","19,107","19,350","19,592","19,851","20,130","20,409","20,701","21,041","21,318","21,608","21,842A","22,140A","22,417A","22,741A","23,007A","23,231A","23,533A","23,892A","24,207A","24,517A","24,848A","25,179A","25,583A","25,822A","26,195A","26,590A","26,941A","27,371A","27,708A","27,982A","28,377A","28,524C","28,829A","29,166A","29,601A","30,022A","30,517A","30,730A","31,145A"
+"Number with income  (x 1,000)","12,814","13,200","13,545","14,144","14,791","15,211","15,400","15,478","15,840","16,213","16,541","17,012","17,339","17,734","18,036","17,781","17,818","17,898A","18,001A","18,481A","18,605A","18,843A","19,449A","20,030A","20,492A","20,883A","21,309A","21,581A","21,936A","22,394A","22,670A","23,090A","23,429A","23,452A","23,618A","24,018A","24,479A","24,597A","24,981C","24,965A","25,221A","25,820A","26,321A","26,762A","26,801A","27,411A"
+,"2021 constant dollars",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Aggregate income  (x 1,000,000)","552,578","547,387","569,863","585,962","613,237","619,890","603,963","598,186","608,328","635,554","656,873","676,546","707,002","738,281","723,400","694,546","697,068","682,152A","700,065A","719,431A","731,564A","750,907A","797,027A","839,261A","882,970A","906,147A","921,139A","929,493A","961,150A","989,576A","1,004,919A","1,051,479A","1,082,558A","1,073,484A","1,087,086A","1,111,573A","1,151,504A","1,183,876A","1,215,070C","1,223,303A","1,220,183A","1,275,971A","1,303,569A","1,317,088A","1,302,728A","1,398,165A"
+"Average income (excluding zeros)","43,100","41,500","42,100","41,400","41,500","40,800","39,200","38,600","38,400","39,200","39,700","39,800","40,800","41,600","40,100","39,100","39,100","38,100A","38,900A","38,900A","39,300A","39,900A","41,000A","41,900A","43,100A","43,400A","43,200A","43,100A","43,800A","44,200A","44,300A","45,500A","46,200A","45,800A","46,000A","46,300A","47,000A","48,100A","48,600A","49,000A","48,400A","49,400A","49,500A","49,200A","48,600A","51,000A"
+"Median income (excluding zeros)","35,200","34,800","34,800","34,600","33,500","33,600","31,100","29,200","29,600","30,400","30,900","31,000","32,400","33,800","30,900","29,300","29,200","28,900A","29,200A","29,200A","29,200A","29,800A","29,900A","30,600A","31,200A","31,500A","31,200A","31,000A","31,500A","32,000A","32,300A","33,000A","33,500A","33,200A","33,100A","33,800A","34,100A","35,000A","36,000A","35,600A","35,400A","35,900A","36,300A","37,100A","35,000A","37,200A"
+
+Symbol legend:
+A, data quality: excellent
+C, data quality: good
+
+
+
+
+Footnotes:
+1,"Source: Centre for Income and Socioeconomic Well-being Statistics, Statistics Canada"
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (1976 to 1992: CV greater than or equal to 16%; 1993 and subsequent years: CV between 16% and 33.3% )."
+3,"Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009."
+4,"The Canadian Income Survey (CIS) introduced improvements to the methods and systems used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. Previous reference years estimates were produced using T1 tax returns only. Other changes to income processing were introduced at the same time, and estimates for 2021 also incorporated updates to the weighting methodology. These changes to the data source, processing system and weighting improve the quality of the data, while having minimal impact on key CIS estimates and trends."
+5,"Estimates for Canada do not include the territories."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0239-01  Income of individuals by age group, sex and income source, Canada, provinces and selected census metropolitan areas"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901
